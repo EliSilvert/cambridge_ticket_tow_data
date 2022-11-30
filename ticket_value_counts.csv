@@ -1,0 +1,59 @@
+Violation Description,Record count,Violation category
+METER EXP,800041,Meter
+METER EXPIRED,697566,Meter
+RESIDENT P,127674,No resident permit
+OVERTIME,95486,Overtime
+RESIDENT PERMIT ONLY,93587,No resident permit
+O/T TIME,91968,Overtime
+STREET CLE,36233,Street cleaning
+NO PARKING,34440,No parking
+NO STOPPING,31520,No parking
+STREET CLEANING,27680,Street cleaning
+NO STOPPIN,25986,No parking
+LOADING ZONE,18555,Loading zone
+LOADING ZN,16498,Loading zone
+STORAGE,12284,Loading zone
+HHP/VETS,7680,Handicap/Veteran
+BUS STOP,5568,Bus stop
+SIDEWALK,5143,Side walk
+HP-VP PLATE PRKG ARE,5069,Handicap/Veteran
+HYDRANT WITHIN 10 FT,4018,Hydrant
+DOUBLE STOPPING,3618,Double parked
+HYDRANT WI,3347,Hydrant
+BIKE LANE,3200,Bike lane
+DOUBLE STO,3143,Double parked
+WRONG DIRECTION PARK,3115,Wrong direction
+CROSSWALK,2854,Crosswalk
+WRNG DIRCT,2688,Wrong direction
+BICYCLE LANE,2313,Bike lane
+SNOW EMERG.,1741,Snow
+LESS THAN 10FT LANE,1641,Spacing
+TAXI CAB STAND,1457,Taxi stand
+FIRE LANE,1443,Fire lane
+DRVWAY/ALLEY OBSTRT,1429,Obstructing something
+WITHIN INTERSECT,1423,Obstructing something
+OBSTRUCT,1187,Obstructing something
+OTHER,1152,Other
+NO STAND,1019,No parking
+TAXI STAND,933,Taxi stand
+NOT METERED SPC,870,No meter
+1FT+ FROM CURB,795,Far from curb
+HANDICAP RAMP,772,Handicap
+NO STANDNG AREA,622,No parking
+NOT PK SPT,604,No parking
+FT INTR,592,Other
+HP RAMP,573,Handicap
+SNOW EMERG,440,Snow
+FT FM CB,380,Other
+LESS THAN,359,Far from curb
+SAFETY ZONE / ISLAND,221,Other
+WITHIN INTERSECTION,170,Obstructing something
+NO VIOLATION CODE,146,Other
+WITHIN INT,94,Other
+BUS STOPPING OTHER T,65,Other
+SAFETY ZON,64,Other
+NO VIOL,40,Other
+LESS THAN 10'LANE,2,Other
+10 FT LANE,1,Other
+DBL STOP,1,Other
+INTERSECT,1,Other
